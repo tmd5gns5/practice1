@@ -1,0 +1,9 @@
+Ajax Asyncronous JavaScript and XML 의 약자입니다.
+Ajax 는 동적인 대화형 웹페이지를 구성하는데 도움을 줍니다.
+
+
+
+req.readystate 상태값 (검색두번쨰)https://qqqqqq.tistory.com/entry/XMLHttpRequest-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EC%83%81%ED%83%9C-readystate
+
+request : 주소창에 검색후 엔터를 쳤을때 해당주소를 요청함
+ajax = 일부분만 고쳐야하는 화면구성상 특정부분만 바꿔야할때
